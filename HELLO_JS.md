@@ -14,3 +14,7 @@
 - Javascript is high-level Language
 
 2. Maths Needed to start learning Programming Language
+
+- google search: https://www.mathsisfun.com/algebra/introduction.html
+
+3. What is a variable, five things you need to declare a variable
