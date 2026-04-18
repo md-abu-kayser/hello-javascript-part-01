@@ -99,7 +99,6 @@ javascript-fundamentals-part-01/
 │   ├── shorthand.js          # Shorthand operators
 │   ├── mixedOp.js            # Mixed operations
 │   ├── naming.js             # Naming conventions
-│   └── INTRO_JS.md           # Detailed introduction guide
 ├── js-introduction-tasks/
 │   ├── Task1.md              # First practical task
 │   ├── Task2.md              # Second task
@@ -110,6 +109,7 @@ javascript-fundamentals-part-01/
 │   ├── task2.js              # Solution for Task 2
 │   ├── task3.js              # Solution for Task 3
 │   └── task4.md              # Solution for Task 4
+├── INTRO_JS.md               # Detailed introduction guide
 ├── LICENSE                   # MIT License
 └── README.md                 # This file
 ```
